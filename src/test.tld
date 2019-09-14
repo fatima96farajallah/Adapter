@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<employee>
+    <empId>100</empId>
+    <empName>fatima</empName>
+    <empAge>23</empAge>
+    <empEmail>farajallahmfatima@gmail.com</empEmail>
+    <empPhone>+970 595505288</empPhone>
+    <Address>
+        <doorNo>10</doorNo>
+        <city>Hebron</city>
+        <country>palestion</country>
+    </Address>
+</employee>
+
